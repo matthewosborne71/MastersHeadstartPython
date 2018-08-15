@@ -11,5 +11,7 @@ The order of lessons in this notebook is as follows:
 6. Networks
 7. Objects
 8. More Plotting
+9. Machine Learning I
+10. Machine Learning II
 
 Feel free to contact me with any comments, concerns, or questions on these notebooks.
